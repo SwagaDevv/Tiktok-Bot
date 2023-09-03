@@ -1,0 +1,4 @@
+undetected-chromedriver == 3.5.3
+requests
+pyenchant
+Pillow
